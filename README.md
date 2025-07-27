@@ -69,7 +69,4 @@ REACT_APP_FIREBASE_API_KEY=your_firebase_api_key
 
 This project is licensed under the ISC License. See the [LICENSE](LICENSE) file for details.
 
-## Author ✏️
-
-[Ajay230520]
-
+ 
